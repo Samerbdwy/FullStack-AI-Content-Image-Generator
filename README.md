@@ -9,7 +9,7 @@ A **scalable, production-ready AI SaaS application** built with the **PERN stack
 * 🔑 **User Authentication & Management** – Secure login and account handling powered by **Clerk**
 * 💳 **Subscription Billing** – Integrated payment system for seamless SaaS monetization
 * 🗄️ **High-Performance Database** – **Neon-hosted PostgreSQL**, built to scale with **10,000+ concurrent users**
-* ⚡ **Fast AI Processing** – AI tools optimized for **average response times under 5 seconds**
+* ⚡ **Fast AI Processing** – AI tools optimized for **average response times under 10 seconds**
 * 📱 **Responsive UI** – Optimized for **desktop and mobile** with React + Tailwind CSS
 * 🤖 **AI-Powered Tools (5+)**
 
