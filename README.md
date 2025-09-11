@@ -30,4 +30,4 @@ A **scalable, production-ready AI SaaS application** built with the **PERN stack
 ## 🌐 Deployment & Demo
 
 * 🔗 **Live Application:** https://quick-ai-nine-beta.vercel.app/
-* 🎥 **Demo Video:** 
+* 🎥 **Demo Video:** https://www.linkedin.com/feed/update/urn:li:activity:7371962703894118400/
